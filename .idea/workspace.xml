@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b802cad3-3a73-4a4e-9853-39db46c0213d" name="Changes" comment="Test1">
+      <change afterPath="$PROJECT_DIR$/ticketMintGUI/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ticketMintGUI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ticketMintGUI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ticketMintGUI/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ticketMintGUI/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ticketMintGUI/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ticketMintGUI/src/FrontPage/FrontPage.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ticketMintGUI/src/FrontPage/frontPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ticketMintGUI/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ticketMintGUI/ticketMintGUI.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="baf5d8bd562574b73b32420b73c89fde447904f8" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ticketMintGUI" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mainakeith555&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:mainakeith555/ticketMint.git&quot;,
+    &quot;accountId&quot;: &quot;e01b4228-b162-4b33-ac76-bafe2eb387f8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2gpg8mc6jjsdUYnq82ZxzfSSgnk" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/maina/OneDrive/Desktop/Java/ticketMint",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b802cad3-3a73-4a4e-9853-39db46c0213d" name="Changes" comment="" />
+      <created>1716399775224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716399775224</updated>
+      <workItem from="1716401245811" duration="17000" />
+    </task>
+    <task id="LOCAL-00001" summary="Test1">
+      <option name="closed" value="true" />
+      <created>1716402260907</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1716402260907</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Test1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test1" />
+  </component>
+</project>
